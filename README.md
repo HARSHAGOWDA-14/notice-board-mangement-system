@@ -4,14 +4,6 @@ Default Admin User ID and Password:
 Uer ID: techvegan
 Password: 12345
 
-For Support & Customize Project
-Kindly Contact
-+91-9890345539 (WhatsApp)
-technologyvegan@gmail.com
-https://www.ashishvegan.com
-
-For More Updates Kindly Subscribe YouTube Channel - Tech Vegan
-
 *** Note: This Source Code is not for selling and sharing purpose. You can submit this project as Academic College Submission or Personal Use.
 
 If found selling of this project or sharing of source codes through different websites, strict action will be taken against the Website Owner.
@@ -29,8 +21,4 @@ Brackets ---------------------- https://bit.ly/39oPSdz
 Visual Studio Code 32bit https://bit.ly/2ONalPK
 Visual Studio Code 64bit https://bit.ly/2WJE0hf
 
-Please Subscribe YouTube Channel
-"Tech Vegan"
-
-Channel Link: https://bit.ly/2MFT35Q
 
